@@ -9,9 +9,9 @@
 # Personal HackerRank Profile
 
 
-[View Profile](https://www.hackerrank.com/nathanabela7)
+[View Profile](https://www.hackerrank.com/@20ecom133prabak1)
 
 ## HackerRank Badges
 
-![Python](/Badges/python_5_star.png)
-![SQL](/Badges/sql_5_star.png)
+![Python](/python_5_star.png)
+![SQL](/sql_5_star.png)
