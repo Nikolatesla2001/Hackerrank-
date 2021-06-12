@@ -1,4 +1,4 @@
-# Hackerrank-
+# Hackerrank
 
 <p align="center">
     <a href="https://www.hackerrank.com/nathanabela7">
@@ -9,7 +9,7 @@
 # Personal HackerRank Profile
 
 
-[View Profile](https://www.hackerrank.com/@20ecom133prabak1)
+[View Profile](https://www.hackerrank.com/20ecom133prabak1)
 
 ## HackerRank Badges
 
